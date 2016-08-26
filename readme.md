@@ -17,11 +17,13 @@ Nota: Considerar que n es un número entero entre 1 y 100.
 3. Se realiza la una condición n%2==0
 4. Si es verdadera la condición ingresa a otra condición que es n>=2 y n<=5
 5. Si es verdadera la condición imprime GOOD
-6. Si la condición es falsa ingresa a otra condición que seria n>=6 y <=20
+6. Si la condición es falsa ingresa a otra condición que seria n>=6 y n<=20
 7. Si la condición es verdadera imprime GREAT 
 8. Si la condición es falsa ingresa a otra condición que seria n>20
 9. Si la condición es verdadera imprime PERFECT
 10. Si la condición es falsa imprime GOOD
-11. Fin
+11. Si la primera condición fue falsa(n%2==0)
+12. Imprime  ODD
+13. Fin
 
 ![image](http://i64.tinypic.com/2pphcht.jpg {width=40px height=100px})
